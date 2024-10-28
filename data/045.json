@@ -1,9 +1,20 @@
 {
     "postId": "045",
-    "title": "'Người trẻ hãy dành cả trái tim cho khoa học và nghiên cứu'",
-    "link": "https://tuoitre.vn/nguoi-tre-hay-danh-ca-trai-tim-cho-khoa-hoc-va-nghien-cuu-20241003133818888.htm",
-    "category": "Khoa học",
-    "date": "03/10/2024",
-    "author": "NGUYÊN BẢO",
-    "content": "Theo viện trưởng Viện Năng lượng nguyên tử Việt Nam, cán bộ 'đầu đàn' ngành năng lượng nguyên tử còn thiếu nhiều."
+    "title": "Thế giới",
+    "link": "https://tuoitre.vn/my-tich-thu-hon-100-ten-mien-cua-nhom-tin-tac-lien-quan-den-tinh-bao-nga-20241004153339381.htm",
+    "category": "Thế giới",
+    "date": "04/10/2024",
+    "author": "KHÁNH QUỲNH",
+    "content": "Nga bị cáo buộc đứng sau đoạn video xé phiếu bầu ủng hộ ông Trump tại bang chiến trường Pennsylvania nhằm tăng khả năng thắng cử của ứng viên Đảng Cộng hòa.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/4/microsoft-1728030554812962684880.jpeg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "6",
+        "icoheartauthor": "3"
+    },
+    "comments": [],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/04/tuoitre-nu-1-20241004153339381.m4a?",
+    "audio_path": "audio/045.mp3"
 }

@@ -1,9 +1,53 @@
 {
     "postId": "031",
-    "title": "Công cụ khai thác lỗ hổng phần mềm được rao bán 100.000 USD",
-    "link": "https://tuoitre.vn/cong-cu-khai-thac-lo-hong-phan-mem-duoc-rao-ban-100-000-usd-20241011154638725.htm",
-    "category": "Công nghệ",
+    "title": "Sức khỏe",
+    "link": "https://tuoitre.vn/tiktok-chuyen-sang-kiem-duyet-bang-ai-sa-thai-hang-tram-nhan-vien-20241011153808923.htm",
+    "category": "Sức khỏe",
     "date": "11/10/2024",
-    "author": "ĐỨC THIỆN",
-    "content": "Công cụ khai thác lỗ hổng phần mềm được rao bán trên nhiều diễn đàn web ‘đen’ và các kênh ẩn danh trên ứng dụng Telegram."
+    "author": "KHÁNH QUỲNH",
+    "content": "Ảnh hưởng của mạng xã hội đến sức khỏe tinh thần của thanh thiếu niên đã được nghiên cứu rộng rãi, nhưng tác động từ nổi tiếng trên TikTok chưa được biết đến nhiều.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/11/tiktok-1728635554905915645137.jpg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "1",
+        "icoheartauthor": "3"
+    },
+    "comments": [
+        {
+            "commentId": "425b9ab4-7ab6-439f-9a78-31f3bec12ef7",
+            "author": "TaRo",
+            "text": "Mua hàng trên Tiktok 10 sản phẩm, 3 xài được 2 tàm tạm, từ 3-5 vứt luôn vì chất kém, kiện cáo không trả lời! Chất tệ quá Tiktok ơi... Phải kiểm duyệt, quảng cáo bán hàng phải đúng hàng nhé! Tui mua cuộn dây điện...+",
+            "date": "2024-10-14T13:51:57.4320694",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "a568ecb6-3a9d-4382-8c47-a2f6c8c4b16b",
+            "author": "Echo",
+            "text": "500-700 nhân viên ở Malaysia thì phần lớn là người Việt",
+            "date": "2024-10-13T00:02:11.1000352",
+            "votes": []
+        },
+        {
+            "commentId": "a43f104f-6d7a-46b7-b447-d01404196867",
+            "author": "Khánh ",
+            "text": "Kiểm duyệt hay ghê, mấy từ đơn giản thì vi phạm, video đơn giản cũng vi phạm, còn mấy cái chửi bậy, từ ngữ khó chịu thì không xóa. Hy vọng kiểm duyệt lần này ổn hơn, chứ mà tệ hơn thì xóa tik tok nghỉ...+",
+            "date": "2024-10-12T12:49:28.555272",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                },
+                {
+                    "spritecmt icolaughreact": "1"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/11/tuoitre-nu-1-20241011153808923.m4a?",
+    "audio_path": "audio/031.mp3"
 }

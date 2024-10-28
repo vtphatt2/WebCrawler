@@ -1,9 +1,41 @@
 {
     "postId": "011",
-    "title": "Có gì trong Lotus Chat vừa ra mắt?",
-    "link": "https://tuoitre.vn/co-gi-trong-lotus-chat-vua-ra-mat-20241018180144632.htm",
-    "category": "Công nghệ",
-    "date": "18/10/2024",
-    "author": "THANH HÀ",
-    "content": "Theo cam kết của nhà cung cấp dịch vụ, Lotus Chat là ứng dụng dành cho người dùng Việt có tính bảo mật và tiện lợi."
+    "title": "Loạt smartphone vừa ra mắt cho người muốn trải nghiệm 5G",
+    "link": "https://tuoitre.vn/loat-smartphone-vua-ra-mat-cho-nguoi-muon-trai-nghiem-5g-20241019164726077.htm",
+    "category": "Kinh doanh",
+    "date": "19/10/2024",
+    "author": "ĐỨC THIỆN",
+    "content": "Nhiều hãng điện thoại đua ra mắt các sản phẩm mới hỗ trợ 5G gần với thời điểm Việt Nam có dịch vụ 5G thương mại đầu tiên, kích thích nhu cầu sắm mới smartphone của người dùng.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/19/oppo-5g-smartphone-dien-thoai-1729330599977881150385.png",
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/19/vivo-5g-smartphone-dien-thoai-17293305999631058308269.png",
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/19/xiaomi-5g-smartphone-dien-thoai-1729330599960324874246.png",
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/19/honor-5g-smartphone-dien-thoai-17293305999521502698904.png"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "8",
+        "icoheartauthor": "7"
+    },
+    "comments": [
+        {
+            "commentId": "832540ee-1516-4e6e-8ca3-76130447e8d0",
+            "author": "duon****@gmail.com",
+            "text": "Tôi bây giờ cũng chuyển sang dùng Oppo vì thực tế chất lượng không thua kém iphone mà giá cả rất hợp lý phù hợp túi tiền nhưng vẫn đáp ứng mọi thứ mình cần,dòng iphone giá vẫn quá cao so với người dân lao động...+",
+            "date": "2024-10-19T23:28:23.1091325",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "2"
+                },
+                {
+                    "spritecmt icoheartreact": "5"
+                },
+                {
+                    "spritecmt icosadreact": "1"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/19/tuoitre-nu-1-20241019164726077.m4a?",
+    "audio_path": "audio/011.mp3"
 }

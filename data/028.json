@@ -1,9 +1,52 @@
 {
     "postId": "028",
-    "title": "Hà Nội: Chấn chỉnh tình trạng sử dụng điện thoại trong lớp tùy tiện",
-    "link": "https://tuoitre.vn/ha-noi-chan-chinh-tinh-trang-su-dung-dien-thoai-trong-lop-tuy-tien-20241012092630489.htm",
-    "category": "Giáo dục",
-    "date": "12/10/2024",
-    "author": "VĨNH HÀ",
-    "content": "Sở GD-ĐT Hà Nội vừa yêu cầu các nhà trường chấn chỉnh tình trạng học sinh sử dụng điện thoại trong lớp không phục vụ cho việc học tập."
+    "title": "Giải Trí",
+    "link": "https://tuoitre.vn/cham-diem-camera-dien-thoai-iphone-16-pro-galaxy-s24-ultra-lep-ve-truoc-chu-de-nay-20241013100352255.htm",
+    "category": "Giải Trí",
+    "date": "13/10/2024",
+    "author": "TTXVN",
+    "content": "Sau thời gian ồn ào đấu qua tố lại với Châu Đăng Khoa, Sofia đã có cú trở mình, lột xác hoàn toàn khiến nhiều người ngỡ ngàng.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/13/dien-thoai-huwei-1728787136538176727547.jpg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "4",
+        "icoheartauthor": "2"
+    },
+    "comments": [
+        {
+            "commentId": "ee7e6c9e-426e-4fdc-9293-e42ccd3de9be",
+            "author": "Tr Huy",
+            "text": "Tìm hiểu thêm, đúng là camera của con này được khen hết lời, nhưng giới reviewer cũng nói rõ hơn, là so với mức giá thì con này thất bại nếu muốn quay lại đường đua thế giới, vì cả \"linh hồn\" là chip Kirin 9010,...+",
+            "date": "2024-10-13T12:57:37.5023908",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "7"
+                },
+                {
+                    "spritecmt icoheartreact": "3"
+                },
+                {
+                    "spritecmt icolaughreact": "1"
+                },
+                {
+                    "spritecmt icosurprisedreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "9f9acad2-ba35-4d00-9ae3-86b2ac76c0ce",
+            "author": "Nguyễn Hân",
+            "text": "S24 Ultra thậm chí còn không vào được top 20 điện thoại chụp hình đẹp nhất nữa thì làm sao mà so được?",
+            "date": "2024-10-14T10:16:56.1638983",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "2"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/13/tuoitre-nu-1-20241013100352255.m4a?",
+    "audio_path": "audio/028.mp3"
 }

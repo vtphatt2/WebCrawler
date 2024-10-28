@@ -1,9 +1,43 @@
 {
     "postId": "054",
-    "title": "Chuyên gia Ngân hàng thế giới: Ngành công nghệ cao cần nhiều nhân lực STEM",
-    "link": "https://tuoitre.vn/chuyen-gia-ngan-hang-the-gioi-nganh-cong-nghe-cao-can-nhieu-nhan-luc-stem-20241001085917907.htm",
-    "category": "Giáo dục",
+    "title": "Giải Trí",
+    "link": "https://tuoitre.vn/viet-nam-phai-bat-kip-tien-cung-va-vuot-len-trong-tien-trinh-doi-moi-sang-tao-cua-nhan-loai-20241001131913754.htm",
+    "category": "Giải Trí",
     "date": "01/10/2024",
-    "author": "TRẦN HUỲNH",
-    "content": "Để nâng cao chuỗi giá trị các ngành công nghiệp, công nghệ, cần nguồn nhân lực có trình độ đại..."
+    "author": "THANH HÀ",
+    "content": "Sau thời gian ồn ào đấu qua tố lại với Châu Đăng Khoa, Sofia đã có cú trở mình, lột xác hoàn toàn khiến nhiều người ngỡ ngàng.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/1100/471584752817336320/2024/10/1/thu-tuong-172776406571329044832.jpg",
+        "https://cdn.tuoitre.vn/thumb_w/1100/471584752817336320/2024/10/1/img0222-1727759409496850081223-1727764065705692689780.jpg",
+        "https://cdn.tuoitre.vn/thumb_w/1100/471584752817336320/2024/10/1/thu-tuong-2-17277640657091820366444.jpg",
+        "https://cdn.tuoitre.vn/thumb_w/1100/471584752817336320/2024/10/1/base64-1727764420986168031214.jpeg",
+        "https://cdn.tuoitre.vn/thumb_w/1100/471584752817336320/2024/10/1/thu-tuong-va-cac-dai-bieu-tham-cac-gian-trung-bay-san-pham-doi-moi-sang-tao-1727764542556423418161.jpg"
+    ],
+    "votes": {
+        "icostar": "10",
+        "icolikeauthor": "3",
+        "icoheartauthor": "3"
+    },
+    "comments": [
+        {
+            "commentId": "b8885fef-330f-48e9-8956-8c1bbf3ec082",
+            "author": "Bich",
+            "text": "Muốn tăng cường đổi mới sáng tạo cần gia tăng giao tiếp, học hỏi kinh nghiệm từ những bài học thành công của thế giới. Tuy nhiên, quy định của chúng ta về tổ chức hội thảo có yếu tố nước ngoài khá là phức tạp...+",
+            "date": "2024-10-01T23:06:41.2977401",
+            "votes": [
+                {
+                    "spritecmt icoheartreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "c446a2f4-9f61-4bd7-a23f-bb0662f8cf43",
+            "author": "nguy****@gmail.com",
+            "text": "Rất xác đáng...tuy nhiên cần thiết phải chủ động xây dựng chương trình kế hoạch mục tiêu Quốc gia cho mục tiêu, yêu cầu quan trọng này!",
+            "date": "2024-10-03T05:40:17.4816472",
+            "votes": []
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/01/tuoitre-nu-1-20241001131913754.m4a?",
+    "audio_path": "audio/054.mp3"
 }

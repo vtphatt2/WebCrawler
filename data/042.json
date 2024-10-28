@@ -1,9 +1,114 @@
 {
     "postId": "042",
-    "title": "Xuất hiện văn bản giả Sở Y tế Quảng Trị, yêu cầu tải ứng dụng giả mạo",
-    "link": "https://tuoitre.vn/xuat-hien-van-ban-gia-so-y-te-quang-tri-yeu-cau-tai-ung-dung-gia-mao-20241004181548445.htm",
-    "category": "Giả - Thật",
-    "date": "04/10/2024",
-    "author": "HOÀNG TÁO",
-    "content": "Sở Y tế Quảng Trị vừa bị một đối tượng giả mạo văn bản lập đoàn đi kiểm tra cơ sở kinh doanh thực phẩm và yêu cầu vào trang web tải ứng dụng giả mạo, điền thông tin."
+    "title": "Hàng triệu người dùng Việt đang bị lừa bởi website giả mạo Zalo",
+    "link": "https://tuoitre.vn/hang-trieu-nguoi-dung-viet-dang-bi-lua-boi-website-gia-mao-zalo-20241008160203682.htm",
+    "category": "Công nghệ",
+    "date": "08/10/2024",
+    "author": "ĐỨC THIỆN",
+    "content": "Hai website giả mạo ứng dụng Zalo do kẻ xấu tạo ra để lừa người sử dụng đang có hàng triệu lượt truy cập mỗi ngày.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/8/gia-mao-zalo-lua-dao-bkav-17283778293491375329206.png"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "19",
+        "icoheartauthor": "9"
+    },
+    "comments": [
+        {
+            "commentId": "cd39e3c4-7bf5-411c-8af9-41fd43ab7b48",
+            "author": "Nguyễn Thành Phước",
+            "text": "Tính đến thời điểm này thì trang web lừa đảo trên vẫn chưa bị chặn.",
+            "date": "2024-10-09T19:03:14.1482215",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "6"
+                },
+                {
+                    "spritecmt icolaughreact": "2"
+                },
+                {
+                    "spritecmt icoanggyreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "cd39e3c4-7bf5-411c-8af9-41fd43ab7b48",
+            "author": "Nguyễn Thành Phước",
+            "text": "Tính đến thời điểm này thì trang web lừa đảo trên vẫn chưa bị chặn.",
+            "date": "2024-10-09T19:03:14.1482215",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "6"
+                },
+                {
+                    "spritecmt icolaughreact": "2"
+                },
+                {
+                    "spritecmt icoanggyreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "03f776f4-bf7f-42bc-99dc-9762b0b35809",
+            "author": "than****@gmail.com",
+            "text": "Zalo nên có hướng xử lý.",
+            "date": "2024-10-09T14:26:06.0600247",
+            "votes": [
+                {
+                    "spritecmt icoheartreact": "1"
+                },
+                {
+                    "spritecmt icolaughreact": "1"
+                },
+                {
+                    "spritecmt icosurprisedreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "b0fd1f37-c3ff-40e4-bd94-964a55a1fcf1",
+            "author": "Cao Văn Tuân",
+            "text": "Zalo đang rất không ổn khi khóa tài khoản khách hàng một cách vô tội vạ. Việc xác minh đăng nhập vô cùng khó khăn. Không có nhân viên, tổng đài trực tuyến hỗ trợ khách hàng. ",
+            "date": "2024-10-09T17:10:43.0028233",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "3"
+                },
+                {
+                    "spritecmt icosadreact": "1"
+                },
+                {
+                    "spritecmt icoanggyreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "4889eddb-4087-4406-8fca-1d254203f61f",
+            "author": "Bạn đọc ",
+            "text": "Vậy tại sao Zalo vẫn để người dùng mình tiếp cận qua các kênh này mà không có report đến cơ quan chức năng?",
+            "date": "2024-10-09T22:39:29.1252122",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                },
+                {
+                    "spritecmt icolaughreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "1f6ac3a8-991a-4ae9-ad5e-34bd47a91b40",
+            "author": "Tiêu Phong",
+            "text": "Xài zalo để 1 thời gian không đăng nhập là nó tự động xoá zalo của mình luôn? Không hiểu quản lí kiểu gì mà tự xoá account và liên hệ của người khác như vậy luôn?",
+            "date": "2024-10-10T10:36:37.5607489",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "2"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/08/tuoitre-nu-1-20241008160203682.m4a?",
+    "audio_path": "audio/042.mp3"
 }

@@ -1,9 +1,42 @@
 {
     "postId": "036",
-    "title": "Tài sản số, trí tuệ nhân tạo (Al) lần đầu được đưa vào luật",
-    "link": "https://tuoitre.vn/tai-san-so-tri-tue-nhan-tao-al-lan-dau-duoc-dua-vao-luat-20241008194231237.htm",
-    "category": "Thời sự",
-    "date": "08/10/2024",
-    "author": "THÀNH CHUNG",
-    "content": "Trong dự án Luật Công nghiệp công nghệ số, Chính phủ đề xuất các nội dung để phát triển ngành công nghiệp công nghệ số, trong đó có trí tuệ nhân tạo (AI) và quy định về tài sản số."
+    "title": "Tuổi Trẻ Cuối Tuần",
+    "link": "https://tuoitre.vn/nobel-vat-ly-2024-nhung-nguoi-dat-nen-mong-cho-ai-20241009074947139.htm",
+    "category": "Tuổi Trẻ Cuối Tuần",
+    "date": "09/10/2024",
+    "author": "PGS.TS PHẠM NGỌC ĐIỆP",
+    "content": "TTCT - Giải Nobel hóa học 2024 đã được trao một nửa cho David Baker (Đại học Washington, Mỹ) cho công trình \"thiết kế protein thông qua tính toán\", nửa còn lại cho Demis Hassabis và John M. Jumper (Google DeepMind, Anh).",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/9/nobel-vat-ly-2024-read-only-17284348174631092561787.jpg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "4",
+        "icoheartauthor": "4"
+    },
+    "comments": [
+        {
+            "commentId": "e94ffdd0-613f-45ee-b17a-0e044c510663",
+            "author": "hoang vu",
+            "text": "Các nhà khoa học nước ngoài 79 tuổi vẫn còn minh mẫn giảng dạy tại các trường ĐH, vậy mới thấy giá trị của các bằng tiến sĩ có trách nhiệm truyền cảm hứng/dạy dỗ cho các thế hệ sau.",
+            "date": "2024-10-09T11:45:14.5679516",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "2"
+                },
+                {
+                    "spritecmt icoheartreact": "3"
+                }
+            ]
+        },
+        {
+            "commentId": "2efab528-5395-4a34-9580-898893064caf",
+            "author": "khoa****@gmail.com",
+            "text": "Giải Nobel ở ngành nào cũng có nhà khoa học Mỹ nêu danh hết",
+            "date": "2024-10-10T07:19:40.1221524",
+            "votes": []
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/09/tuoitre-nu-1-20241009074947139.m4a?",
+    "audio_path": "audio/036.mp3"
 }

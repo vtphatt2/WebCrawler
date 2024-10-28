@@ -1,9 +1,20 @@
 {
     "postId": "039",
-    "title": "Hàng triệu người dùng Việt đang bị lừa bởi website giả mạo Zalo",
-    "link": "https://tuoitre.vn/hang-trieu-nguoi-dung-viet-dang-bi-lua-boi-website-gia-mao-zalo-20241008160203682.htm",
-    "category": "Công nghệ",
+    "title": "Sức khỏe",
+    "link": "https://tuoitre.vn/bat-giu-2-ke-tao-va-phat-tan-cac-video-deepfake-khieu-dam-20241008182108524.htm",
+    "category": "Sức khỏe",
     "date": "08/10/2024",
-    "author": "ĐỨC THIỆN",
-    "content": "Hai website giả mạo ứng dụng Zalo do kẻ xấu tạo ra để lừa người sử dụng đang có hàng triệu lượt truy cập mỗi ngày."
+    "author": "TTXVN",
+    "content": "Ảnh hưởng của mạng xã hội đến sức khỏe tinh thần của thanh thiếu niên đã được nghiên cứu rộng rãi, nhưng tác động từ nổi tiếng trên TikTok chưa được biết đến nhiều.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2023/12/4/nd231204-tranh-minh-hoa-deepfake-1701667780841822167352.jpg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "2",
+        "icoheartauthor": "1"
+    },
+    "comments": [],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/08/tuoitre-nu-1-20241008182108524.m4a?",
+    "audio_path": "audio/039.mp3"
 }

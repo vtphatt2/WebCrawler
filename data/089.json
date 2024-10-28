@@ -1,7 +1,32 @@
 {
     "postId": "089",
-    "title": "Qualcomm muốn mua Intel, ngành bán dẫn liệu có chao đảo?",
-    "link": "https://tuoitre.vn/qualcomm-muon-mua-intel-nganh-ban-dan-lieu-co-chao-dao-20240921122709819.htm",
-    "category": "Thế giới",
-    "content": "'Ông lớn' ngành bán dẫn Qualcomm bất ngờ hỏi mua Intel, có thể tạo ra thương vụ mua bán và sáp nhập tác động mạnh mẽ nhất lịch sử ngành công nghệ."
+    "title": "AI chưa cướp công việc nhưng sẽ 'ăn bớt' lương của người lao động",
+    "link": "https://tuoitre.vn/ai-chua-cuop-cong-viec-nhung-se-an-bot-luong-cua-nguoi-lao-dong-20240921193209414.htm",
+    "category": "Kinh doanh",
+    "date": "21/09/2024",
+    "author": "NHƯ BÌNH",
+    "content": "Nhiều chiến dịch tiếp thị của các tập đoàn quốc tế đã tích hợp trí tuệ nhân tạo (AI) để thúc đẩy hiệu quả, nâng cao khả năng cá nhân hóa và tái định hình nhận diện thương hiệu.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/9/21/base64-17269219634762138919000.jpeg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "5",
+        "icoheartauthor": "5"
+    },
+    "comments": [
+        {
+            "commentId": "67af6880-a30f-4c5c-aa11-e60496304818",
+            "author": "Alex Pham",
+            "text": "Thật ra AI không \"cướp\" công việc hay tiền của ai cả, mà người \"cướp\" ở đây chính là những công ty, tổ chức cung cấp dịch vụ AI.",
+            "date": "2024-09-22T20:47:39",
+            "votes": [
+                {
+                    "spritecmt icoheartreact": "1"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/09/21/tuoitre-nu-1-20240921193209414.m4a?",
+    "audio_path": "audio/089.mp3"
 }

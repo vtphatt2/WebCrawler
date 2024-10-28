@@ -1,7 +1,35 @@
 {
     "postId": "096",
-    "title": "Hàn Quốc dành 6,8 triệu USD ngân sách cho cuộc chiến chống deepfake",
-    "link": "https://tuoitre.vn/han-quoc-danh-68-trieu-usd-ngan-sach-cho-cuoc-chien-chong-deepfake-2024091915022578.htm",
+    "title": "Giả - Thật",
+    "link": "https://tuoitre.vn/tre-em-bi-lac-mat-tang-manh-do-thoi-quen-dung-dien-thoai-20240919150644837.htm",
     "category": "Giả - Thật",
-    "content": "Ngày 19-9, Cơ quan Cảnh sát quốc gia Hàn Quốc cho biết sẽ đầu tư 9,1 tỉ won (6,8 triệu USD) trong..."
+    "date": "19/09/2024",
+    "author": "TTXVN",
+    "content": "Diễn viên Minh Dự xác nhận với Tuổi Trẻ Online rằng những thông tin, hình ảnh của anh liên quan đến lùm xùm của Phan Đạt thời gian qua là không có thật.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/3/6/tre-dung-dien-thoai-170969382333188672737.jpeg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "2",
+        "icoheartauthor": "4"
+    },
+    "comments": [
+        {
+            "commentId": "330c3a07-b709-4d08-8474-0c46a9e5bb9f",
+            "author": "Ba Phi",
+            "text": "Giờ trẻ em thường bị triệu chứng giật mũi, giật miệng, giật đầu vì xem video, chơi game trên điện thoại, máy tính, tivi. Kể cả người trưởng thành bị nghiện game cũng nhiều gây ảnh hưởng đến nối giống, sức khoẻ, hiệu quả học tập...+",
+            "date": "2024-09-19T16:04:18",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "2"
+                },
+                {
+                    "spritecmt icoheartreact": "1"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/09/19/tuoitre-nu-1-20240919150644837.m4a?",
+    "audio_path": "audio/096.mp3"
 }

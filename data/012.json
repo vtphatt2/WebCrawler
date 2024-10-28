@@ -1,9 +1,60 @@
 {
     "postId": "012",
-    "title": "Săn iPhone xịn 100.000 - 400.000 đồng, kết quả ra sao?",
-    "link": "https://tuoitre.vn/san-iphone-xin-100-000-400-000-dong-ket-qua-ra-sao-20241017093618681.htm",
-    "category": "Bạn đọc làm báo",
-    "date": "17/10/2024",
-    "author": "BÉ HIẾU",
-    "content": "Rao bán iPhone với giá rẻ như cho, kèm cam kết máy chính hãng 100% nguyên seal nhưng sau khi nhận chuyển khoản lại chặn mọi liên lạc với khách hàng."
+    "title": "Giải Trí",
+    "link": "https://tuoitre.vn/tp-hcm-khuyen-khich-nguoi-dan-tham-gia-chuyen-doi-so-20241019132931803.htm",
+    "category": "Giải Trí",
+    "date": "19/10/2024",
+    "author": "ĐỨC THIỆN",
+    "content": "Sau thời gian ồn ào đấu qua tố lại với Châu Đăng Khoa, Sofia đã có cú trở mình, lột xác hoàn toàn khiến nhiều người ngỡ ngàng.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/19/chuyen-doi-so-tphcm-cong-nghe-thong-tin-dthien-1729319164872216900602.jpg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "3",
+        "icoheartauthor": "3"
+    },
+    "comments": [
+        {
+            "commentId": "eee38b7a-02ae-4eb9-a165-a5f055d12979",
+            "author": "Phường 2 Tân Bình",
+            "text": "Đăng ký \"Tạm trú\" năm 2022 qua cổng Dịch vụ công được. Đến năm 2024, \"gia hạn tạm trú\" cán bộ Công An khác lên thay đổi hỏi: Hợp đồng thuê nhà không có con (chưa bao giờ thấy con nhỏ phải có trong hợp đồng...+",
+            "date": "2024-10-21T04:51:09.1236694",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "3"
+                },
+                {
+                    "spritecmt icoheartreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "9b54d179-00ab-4024-a85f-69b7e1f04f00",
+            "author": "Sáu thời sự",
+            "text": "Bằng lái B2 hết hạn, đổi xong mở VNeID để cập nhật mà hệ thống không cập nhật được, giờ không biết hỏi ai.",
+            "date": "2024-10-22T09:22:34.8250693",
+            "votes": [
+                {
+                    "spritecmt icoheartreact": "1"
+                },
+                {
+                    "spritecmt icolaughreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "6785c615-0016-4b40-bb18-62a43c0912af",
+            "author": "0933******75",
+            "text": "Đọc tới, đọc lui mà không biết cụ thể là tổ chức ở đâu.",
+            "date": "2024-10-21T14:11:07.3118151",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/19/tuoitre-nu-1-20241019132931803.m4a?",
+    "audio_path": "audio/012.mp3"
 }

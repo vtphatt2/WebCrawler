@@ -1,9 +1,114 @@
 {
     "postId": "043",
-    "title": "Mỹ tịch thu hơn 100 tên miền của nhóm tin tặc liên quan đến tình báo Nga",
-    "link": "https://tuoitre.vn/my-tich-thu-hon-100-ten-mien-cua-nhom-tin-tac-lien-quan-den-tinh-bao-nga-20241004153339381.htm",
-    "category": "Thế giới",
-    "date": "04/10/2024",
-    "author": "KHÁNH QUỲNH",
-    "content": "Nhóm tin tặc được cho là có liên quan đến Cơ quan an ninh Liên bang Nga (FSB) và đã rơi vào tầm ngắm của Microsoft từ năm 2017."
+    "title": "Bạn đọc làm báo",
+    "link": "https://tuoitre.vn/canh-bao-nhieu-chieu-tro-mao-danh-dien-may-xanh-lua-dao-20241007164443366.htm",
+    "category": "Bạn đọc làm báo",
+    "date": "07/10/2024",
+    "author": "ĐỨC THIỆN",
+    "content": "Ít nhất 20 trường hợp người dân ở Vĩnh Long tố cáo bị lừa đảo hàng chục tỉ đồng bằng chiêu kêu gọi góp vốn buôn trái cây và được trả lãi cao qua đêm.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/7/dien-may-xanh-mao-danh-lua-dao-17282941564271053506936.jpg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "13",
+        "icoheartauthor": "10"
+    },
+    "comments": [
+        {
+            "commentId": "e1b352d2-d02e-4eee-acb9-c998af2621d9",
+            "author": "Vietroad ",
+            "text": "Tự dưng ngồi không nạp tiền vô có lời liền thì nhân viên đó tự nạp rồi, cần gì đi làm cho cực khổ.",
+            "date": "2024-10-07T17:22:35.6802211",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "4"
+                },
+                {
+                    "spritecmt icoheartreact": "3"
+                },
+                {
+                    "spritecmt icolaughreact": "2"
+                },
+                {
+                    "spritecmt icosadreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "e1b352d2-d02e-4eee-acb9-c998af2621d9",
+            "author": "Vietroad ",
+            "text": "Tự dưng ngồi không nạp tiền vô có lời liền thì nhân viên đó tự nạp rồi, cần gì đi làm cho cực khổ.",
+            "date": "2024-10-07T17:22:35.6802211",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "4"
+                },
+                {
+                    "spritecmt icoheartreact": "3"
+                },
+                {
+                    "spritecmt icolaughreact": "2"
+                },
+                {
+                    "spritecmt icosadreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "e57ddc1d-3f4d-46d4-a708-290d3ce2a90f",
+            "author": "nguyen hungpham",
+            "text": "Tôi mới được nhân viên ĐMX gọi chiều qua nói được tặng quà thưởng. Tôi tắt máy luôn. Mọi người đừng bao giờ nghe điện thoại số lạ, lỡ nghe báo được thưởng, hải quan, thuế v.v... tốt nhất TẮT MÁY.",
+            "date": "2024-10-08T07:53:13.3644255",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "5"
+                },
+                {
+                    "spritecmt icoanggyreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "36bd82ea-ce4d-4001-990c-8c922a1f65ef",
+            "author": "Huong",
+            "text": "Bây giờ lừa đảo ngày càng tinh vi. Ngày nào cũng thấy báo chí phản ánh.",
+            "date": "2024-10-07T18:12:07.6618322",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                },
+                {
+                    "spritecmt icoheartreact": "3"
+                }
+            ]
+        },
+        {
+            "commentId": "75d96df4-1e51-4050-a4df-e4575c33ff5f",
+            "author": "Minh",
+            "text": "Tôi cũng bị gọi và xác minh, báo cáo cho ĐMX rồi chỉ nhận dược tin là chờ xác minh",
+            "date": "2024-10-07T18:55:37.2845579",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                },
+                {
+                    "spritecmt icosadreact": "2"
+                }
+            ]
+        },
+        {
+            "commentId": "4e6011a2-9b55-48ad-b180-b113325d08bd",
+            "author": "mimi",
+            "text": "Nói chung người lạ gọi đến không quảng cáo thì cũng lừa đảo. Mẹ mình bị gọi suýt bị lừa, nên giờ áp dụng số lạ gọi là không nghe máy.",
+            "date": "2024-10-08T07:13:18.4823795",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "3"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/07/tuoitre-nu-1-20241007164443366.m4a?",
+    "audio_path": "audio/043.mp3"
 }

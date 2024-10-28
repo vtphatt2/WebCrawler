@@ -1,9 +1,39 @@
 {
     "postId": "020",
-    "title": "TV Samsung Neo QLED 8K đoạt giải 'Thiết bị đột phá nhờ AI' tại Better Choice Awards 2024",
-    "link": "https://tuoitre.vn/tv-samsung-neo-qled-8k-dat-giai-thiet-bi-dot-pha-nho-ai-tai-better-choice-awards-2024-20241014111355771.htm",
-    "category": "Công nghệ",
+    "title": "Giải Trí",
+    "link": "https://tuoitre.vn/chay-dua-truoc-gio-g-tat-song-2g-tai-viet-nam-20241015151700791.htm",
+    "category": "Giải Trí",
     "date": "15/10/2024",
-    "author": "V.T.K",
-    "content": "Neo QLED 8K 2024 thuộc dòng sản phẩm Samsung AI TV được hãng ra mắt vào đầu năm nay, mang..."
+    "author": "ĐỨC THIỆN",
+    "content": "Sau thời gian ồn ào đấu qua tố lại với Châu Đăng Khoa, Sofia đã có cú trở mình, lột xác hoàn toàn khiến nhiều người ngỡ ngàng.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/15/mang-dien-thoai-17289845075321968709628.jpg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "5",
+        "icoheartauthor": "4"
+    },
+    "comments": [
+        {
+            "commentId": "e7cdd5f6-279a-46b7-bc82-a236c35afb5c",
+            "author": "Nguyen",
+            "text": "Đừng để ai phải bị bỏ lại phía sau",
+            "date": "2024-10-16T08:32:19.243374",
+            "votes": [
+                {
+                    "spritecmt icolaughreact": "2"
+                }
+            ]
+        },
+        {
+            "commentId": "160ce6b1-f490-4910-a978-4995d3115e17",
+            "author": "Nguyễn Ích Quý ",
+            "text": "Nhà Nước nên yêu cầu Nhà Mạng cần bỏ cái suy nghĩ gói cước mới phải mua sim và thay vào đó mua sim bao nhiêu thì cứ tính tiền thêm cho tháng đầu sẽ hạn chế được sim rác đại trà và rác thải...+",
+            "date": "2024-10-16T10:48:47.2884707",
+            "votes": []
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/15/tuoitre-nu-1-20241015151700791.m4a?",
+    "audio_path": "audio/020.mp3"
 }

@@ -1,9 +1,115 @@
 {
     "postId": "015",
-    "title": "Triệt phá băng nhóm 'lừa tình' 46 triệu USD bằng video deepfake",
-    "link": "https://tuoitre.vn/triet-pha-bang-nhom-lua-tinh-46-trieu-usd-bang-video-deepfake-20241015233645014.htm",
-    "category": "Thế giới",
-    "date": "16/10/2024",
-    "author": "CÔNG KHẢI",
-    "content": "Cảnh sát Hong Kong tuyên bố triệt phá đường dây sử dụng video làm giả gương mặt bằng AI (video deepfake) để 'lừa tình' nam giới châu Á với tổng thiệt hại lên đến 46 triệu USD."
+    "title": "Bạn đọc làm báo",
+    "link": "https://tuoitre.vn/san-iphone-xin-100-000-400-000-dong-ket-qua-ra-sao-20241017093618681.htm",
+    "category": "Bạn đọc làm báo",
+    "date": "17/10/2024",
+    "author": "BÉ HIẾU",
+    "content": "Nam thanh niên chạy xe máy trên đường ở quận Bình Tân (TP.HCM) chở theo bốn con chó lớn đều không đeo rọ mõm. Một bạn đọc lo lắng sự việc trên có thể tiềm ẩn nguy cơ gây mất an toàn cho người lái xe và người khác đi trên đường.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/17/base64-1729134153267573612199.jpeg",
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/17/base64-17291331092561209534107.jpeg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "16",
+        "icoheartauthor": "17"
+    },
+    "comments": [
+        {
+            "commentId": "f4c66b6d-06b7-4c78-a0de-aa5a4d6312e7",
+            "author": "Coc",
+            "text": "Ai tham mới tin.",
+            "date": "2024-10-17T11:15:00.4905893",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "12"
+                },
+                {
+                    "spritecmt icoheartreact": "3"
+                },
+                {
+                    "spritecmt icolaughreact": "5"
+                }
+            ]
+        },
+        {
+            "commentId": "f4c66b6d-06b7-4c78-a0de-aa5a4d6312e7",
+            "author": "Coc",
+            "text": "Ai tham mới tin.",
+            "date": "2024-10-17T11:15:00.4905893",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "12"
+                },
+                {
+                    "spritecmt icoheartreact": "3"
+                },
+                {
+                    "spritecmt icolaughreact": "5"
+                }
+            ]
+        },
+        {
+            "commentId": "b608d7d0-2454-45b3-a49f-bae3f89a304b",
+            "author": "Giang Hà",
+            "text": "Hàng từ tiền triệu mà chỉ còn tiền trăm thì phải suy nghĩ lại. Chẳng ai tốt lành là tự dưng đi buôn bán lỗ...",
+            "date": "2024-10-17T11:26:37.202726",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "4"
+                },
+                {
+                    "spritecmt icolaughreact": "2"
+                }
+            ]
+        },
+        {
+            "commentId": "b0e3e428-58fe-45db-922d-40f279b846a6",
+            "author": "hujd****@gmail.com",
+            "text": "Của rẻ ở đâu ra, đánh vào lòng tham con người thôi.",
+            "date": "2024-10-17T11:06:58.130461",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "4"
+                },
+                {
+                    "spritecmt icoheartreact": "1"
+                },
+                {
+                    "spritecmt icolaughreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "7bc594bf-3329-4692-8c02-288de48b1b23",
+            "author": "Anh Thư",
+            "text": "Xác máy bán còn cao hơn mà nguyên seal lại còn như mới với lại còn uy tín nữa thì chịu khó trả giá để học.",
+            "date": "2024-10-17T11:26:16.1743458",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "4"
+                },
+                {
+                    "spritecmt icoheartreact": "2"
+                }
+            ]
+        },
+        {
+            "commentId": "2f415e4e-3add-4e33-9100-8800551e2ebc",
+            "author": "tduc****@gmail.com",
+            "text": "Mua iPhone giá rẻ hơn thị trường gấp chục, hoặc trăm lần, vậy mà nhiều người cũng bị lừa.",
+            "date": "2024-10-17T11:23:04.6783244",
+            "votes": [
+                {
+                    "spritecmt icoheartreact": "3"
+                },
+                {
+                    "spritecmt icolaughreact": "1"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/17/tuoitre-nu-1-20241017093618681.m4a?",
+    "audio_path": "audio/015.mp3"
 }

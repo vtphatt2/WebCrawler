@@ -1,9 +1,90 @@
 {
     "postId": "046",
-    "title": "Cải tiến ngăn mát, tủ lạnh 'LG Ngăn đá dưới mới' làm mát lòng gia đình Việt?",
-    "link": "https://tuoitre.vn/cai-tien-ngan-mat-tu-lanh-lg-ngan-da-duoi-moi-lam-mat-long-gia-dinh-viet-20241002191449826.htm",
-    "category": "Công nghệ",
-    "date": "03/10/2024",
-    "author": "V.T.K",
-    "content": "Các dòng tủ lạnh LG vốn luôn ghi điểm trong lòng gia đình Việt nhờ tính năng ưu việt và thiết kế thông minh."
+    "title": "Sức khỏe",
+    "link": "https://tuoitre.vn/dang-anh-len-mang-xa-hoi-nhan-it-like-cung-co-the-tram-cam-20241004114316299.htm",
+    "category": "Sức khỏe",
+    "date": "04/10/2024",
+    "author": "NGUYÊN BẢO",
+    "content": "Ảnh hưởng của mạng xã hội đến sức khỏe tinh thần của thanh thiếu niên đã được nghiên cứu rộng rãi, nhưng tác động từ nổi tiếng trên TikTok chưa được biết đến nhiều.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/4/base64-17280156814291390072843.jpeg",
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/4/base64-17280165580331114179246.jpeg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "7",
+        "icoheartauthor": "2"
+    },
+    "comments": [
+        {
+            "commentId": "bcd8a0b0-ecda-48a6-be99-f16d7d659ed5",
+            "author": "Anh Vũ",
+            "text": "Tôi thỉnh thoảng comment trên báo thấy ít người thả tim quá cũng buồn...5 phút.",
+            "date": "2024-10-04T15:24:27.9335727",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                },
+                {
+                    "spritecmt icoheartreact": "1"
+                },
+                {
+                    "spritecmt icolaughreact": "11"
+                },
+                {
+                    "spritecmt icosadreact": "3"
+                }
+            ]
+        },
+        {
+            "commentId": "a682fe51-fa6c-4172-ab10-5eb6ec50f59b",
+            "author": "thanh tùng",
+            "text": "Nghiên cứu rất hay, rất bổ ích. Mong rằng Bộ Giáo Dục và Chính Phủ nhanh chóng có giải pháp ngăn chặn mạng xã hội tác động xấu lên trẻ em.",
+            "date": "2024-10-04T13:17:09.7175294",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "9"
+                },
+                {
+                    "spritecmt icoheartreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "a19a48ce-d9f8-4a53-939a-3d223e38456b",
+            "author": "Green Field",
+            "text": "Tôi đăng status mà chỉ có 5 like thì buồn cả ngày!",
+            "date": "2024-10-04T14:28:45.218011",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                },
+                {
+                    "spritecmt icoheartreact": "3"
+                },
+                {
+                    "spritecmt icolaughreact": "3"
+                },
+                {
+                    "spritecmt icosadreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "b8bb7eef-49a4-48c5-b794-a573e2b5745e",
+            "author": "Da Nang",
+            "text": "Bạn không like họ thì họ không like lại bạn chứ mắc gì trầm cảm. Nếu bạn siêng năng like thì khi bạn đăng bài, mọi người \"like trả nợ\" cho bạn thôi.",
+            "date": "2024-10-04T14:39:19.581899",
+            "votes": [
+                {
+                    "spritecmt icolaughreact": "3"
+                },
+                {
+                    "spritecmt icosurprisedreact": "2"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/04/tuoitre-nu-1-20241004114316299.m4a?",
+    "audio_path": "audio/046.mp3"
 }

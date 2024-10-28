@@ -1,9 +1,111 @@
 {
     "postId": "016",
-    "title": "Hội chợ sách lớn nhất thế giới Frankfurt bàn về trí tuệ nhân tạo",
-    "link": "https://tuoitre.vn/hoi-cho-sach-lon-nhat-the-gioi-frankfurt-ban-ve-tri-tue-nhan-tao-20241015184906013.htm",
-    "category": "Văn hóa",
-    "date": "15/10/2024",
-    "author": "TTXVN",
-    "content": "Một loạt chủ đề đa dạng, đặc biệt là công nghệ trí tuệ nhân tạo (AI) trong lĩnh vực xuất bản, sẽ thu hút đông đảo sự quan tâm của độc giả tại Hội chợ sách Frankfurt (Đức) - hội chợ sách lớn nhất thế giới tuần này."
+    "title": "Công nghệ",
+    "link": "https://tuoitre.vn/toc-do-5g-luc-dinh-cao-khi-chang-khac-gi-4g-20241017073153462.htm",
+    "category": "Công nghệ",
+    "date": "17/10/2024",
+    "author": "ĐỨC THIỆN",
+    "content": "Những câu chuyện về một vài người nào đó trở thành tỉ phú chỉ sau một thời gian ngắn chơi tiền số đã khiến nhiều người Việt lao vào cuộc chơi với hy vọng đổi đời nhưng rồi không chỉ trắng tay mà còn ôm nợ.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/17/7-ngay-17-10aaaa-read-only-1729124984380924278174.jpg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "16",
+        "icoheartauthor": "14"
+    },
+    "comments": [
+        {
+            "commentId": "10f06529-b51f-4743-bf5c-cfdc7c85b90b",
+            "author": "Gia bảo",
+            "text": "Chính xác, chỉ là những con số",
+            "date": "2024-10-17T08:09:11.6153275",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "15"
+                },
+                {
+                    "spritecmt icoheartreact": "2"
+                }
+            ]
+        },
+        {
+            "commentId": "10f06529-b51f-4743-bf5c-cfdc7c85b90b",
+            "author": "Gia bảo",
+            "text": "Chính xác, chỉ là những con số",
+            "date": "2024-10-17T08:09:11.6153275",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "15"
+                },
+                {
+                    "spritecmt icoheartreact": "2"
+                }
+            ]
+        },
+        {
+            "commentId": "fa93275d-c1b8-4953-b235-99ad080af2d1",
+            "author": "hujd****@gmail.com",
+            "text": "Mang 4g hiện nay cũng chỉ như 3g, tốc độ phập phù, có nhiều khi chỉ còn chữ g.",
+            "date": "2024-10-17T09:04:09.484738",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "3"
+                },
+                {
+                    "spritecmt icoheartreact": "2"
+                },
+                {
+                    "spritecmt icolaughreact": "6"
+                }
+            ]
+        },
+        {
+            "commentId": "6843c416-c8f6-431d-b5cc-a2c315279d04",
+            "author": "Nguyen",
+            "text": "Mạng 5G ký hiệu trên sóng điện thoại lai chữ E sao mọi người? Đang dùng 4G ký hiệu chữ LTE chuyển sang chọn mang 5G hiện chữ E.",
+            "date": "2024-10-17T09:10:31.6234738",
+            "votes": [
+                {
+                    "spritecmt icoheartreact": "2"
+                },
+                {
+                    "spritecmt icolaughreact": "4"
+                },
+                {
+                    "spritecmt icosadreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "f5d253a4-d0a4-4c25-a891-8577dcb6c3b2",
+            "author": "Nguyễn Văn Tuấn",
+            "text": "Tình trạng này giống như xây đường cao tốc chỉ có 2 làn xe ở nước ta.",
+            "date": "2024-10-17T10:57:04.8258683",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "3"
+                },
+                {
+                    "spritecmt icoheartreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "7a4eb32a-70ff-4d32-90ce-4944ab2918e1",
+            "author": "Nguyen",
+            "text": "Ảo tung chảo. Tôi vẫn cài đặt 4G cho điện thoại ip 16prm chạy ổn định!",
+            "date": "2024-10-17T10:13:15.5280744",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "3"
+                },
+                {
+                    "spritecmt icoheartreact": "1"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/17/tuoitre-nu-1-20241017073153462.m4a?",
+    "audio_path": "audio/016.mp3"
 }

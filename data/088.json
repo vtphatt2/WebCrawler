@@ -1,7 +1,32 @@
 {
     "postId": "088",
-    "title": "Top 10 doanh nghiệp công nghệ số Việt Nam: Ưu tiên hướng đến AI và bán dẫn",
-    "link": "https://tuoitre.vn/top-10-doanh-nghiep-cong-nghe-so-viet-nam-uu-tien-huong-den-ai-va-ban-dan-20240921135328199.htm",
+    "title": "Công nghệ",
+    "link": "https://tuoitre.vn/ai-chua-cuop-cong-viec-nhung-se-an-bot-luong-cua-nguoi-lao-dong-20240921193209414.htm",
     "category": "Công nghệ",
-    "content": "Ngày 21-9, Hiệp hội Phần mềm và Dịch vụ công nghệ thông tin Việt Nam (VINASA) vừa công bố Top 10 Doanh nghiệp Công nghệ số xuất sắc Việt Nam 2024."
+    "date": "21/09/2024",
+    "author": "NHƯ BÌNH",
+    "content": "FPT và Đại học Quốc gia Singapore sẽ thành lập một phòng nghiên cứu hiện đại, đầu tư thúc đẩy đổi mới sáng tạo và đào tạo các chuyên gia trong lĩnh vực AI.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/9/21/base64-17269219634762138919000.jpeg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "5",
+        "icoheartauthor": "5"
+    },
+    "comments": [
+        {
+            "commentId": "67af6880-a30f-4c5c-aa11-e60496304818",
+            "author": "Alex Pham",
+            "text": "Thật ra AI không \"cướp\" công việc hay tiền của ai cả, mà người \"cướp\" ở đây chính là những công ty, tổ chức cung cấp dịch vụ AI.",
+            "date": "2024-09-22T20:47:39",
+            "votes": [
+                {
+                    "spritecmt icoheartreact": "1"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/09/21/tuoitre-nu-1-20240921193209414.m4a?",
+    "audio_path": "audio/088.mp3"
 }

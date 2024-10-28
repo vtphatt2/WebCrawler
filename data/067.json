@@ -1,9 +1,56 @@
 {
     "postId": "067",
-    "title": "Nhà sáng tạo nội dung số vì cộng đồng: Từ người chuyên nghiệp đến Lão Nông Vlog được vinh danh",
-    "link": "https://tuoitre.vn/nha-sang-tao-noi-dung-so-vi-cong-dong-tu-nguoi-chuyen-nghiep-den-lao-nong-vlog-duoc-vinh-danh-20240927193859541.htm",
-    "category": "Văn hóa",
-    "date": "27/09/2024",
-    "author": "THIÊN ĐIỂU",
-    "content": "Ông Hoàng Nam Tiến - phó chủ tịch Trường đại học FPT - được trao giải thưởng Nhà sáng tạo nội dung số vì cộng đồng trong lễ trao Giải thưởng Sáng tạo nội dung số Việt Nam năm 2024 vào chiều 27-9 tại Hà Nội."
+    "title": "",
+    "link": "https://tuoitre.vn/co-mot-trai-dat-o-tuong-lai-20240928085054497.htm",
+    "category": "",
+    "date": "28/09/2024",
+    "author": "TTXVN",
+    "content": "Không ít người cho rằng việc khám phá mục đích sống của bản thân là mơ hồ và không cần thiết. Điều này dường như không hoàn toàn đúng. Nếu biết xác định Ikigai của bản thân, chắc chắc cuộc sống của bạn sẽ trở nên có ích và thành công hơn rất nhiều.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/9/28/screenshot-2024-09-28-at-083707-1727487439834926691103.png"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "3",
+        "icoheartauthor": "3"
+    },
+    "comments": [
+        {
+            "commentId": "ada3b90d-09ed-4953-bf6c-3600f99ebdb9",
+            "author": "Nguyen Hoang Lan",
+            "text": "8 tỉ năm nữa cơ, đời người sống được 60-80 năm và trong mấy chục năm ấy căng mình kiếm miếng ăn, đối diện thiện tai địch họa, lo âu với các loại tệ nạn xã hội... Nên học thuyết của các bác cũng là sản...+",
+            "date": "2024-09-28T09:58:23.4394943",
+            "votes": [
+                {
+                    "spritecmt icoheartreact": "1"
+                },
+                {
+                    "spritecmt icolaughreact": "3"
+                }
+            ]
+        },
+        {
+            "commentId": "5323d172-a989-4d58-945d-1d7201d982a5",
+            "author": "TTT",
+            "text": "Không lâu như thế.",
+            "date": "2024-09-28T11:54:40.492348",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "2"
+                },
+                {
+                    "spritecmt icoheartreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "4fb71a16-441d-45bb-ae0e-cb211229bcb7",
+            "author": "tran****@gmail.com",
+            "text": "Sự sống của loài người sẽ tồn tại trong bao lâu trước thực tế hiện nay đang xảy ra trước mắt...",
+            "date": "2024-09-28T14:03:03.1984148",
+            "votes": []
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/09/28/tuoitre-nu-1-20240928085054497.m4a?",
+    "audio_path": "audio/067.mp3"
 }

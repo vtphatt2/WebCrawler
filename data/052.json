@@ -1,9 +1,112 @@
 {
     "postId": "052",
-    "title": "Việt Nam phải bắt kịp, tiến cùng và vượt lên trong tiến trình đổi mới sáng tạo của nhân loại",
-    "link": "https://tuoitre.vn/viet-nam-phai-bat-kip-tien-cung-va-vuot-len-trong-tien-trinh-doi-moi-sang-tao-cua-nhan-loai-20241001131913754.htm",
-    "category": "Công nghệ",
-    "date": "01/10/2024",
-    "author": "THANH HÀ",
-    "content": "Đổi mới sáng tạo phải dám nghĩ, dám làm, dám hành động, dám chấp nhận rủi ro, dám vượt..."
+    "title": "Kinh doanh",
+    "link": "https://tuoitre.vn/hoa-hau-fpt-2018-lam-pho-tong-giam-doc-fpt-retail-20241001202428163.htm",
+    "category": "Kinh doanh",
+    "date": "02/10/2024",
+    "author": "ĐỨC THIỆN",
+    "content": "9 tháng đầu năm nay, bà Ngô Thị Vân Hạnh, tổng giám đốc Yeah1, nhận lương 2 tỉ đồng, tăng đáng kể với cùng kỳ năm ngoái.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/1/nguyen-do-quyen-fpt-retail-pho-tong-giam-doc-17277887635521288055611.png"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "10",
+        "icoheartauthor": "6"
+    },
+    "comments": [
+        {
+            "commentId": "8b67e464-cbf0-4f4d-ad94-87b709b756c5",
+            "author": "Green Field",
+            "text": "Đúng là xinh như hoa hậu!",
+            "date": "2024-10-02T10:35:51.3350431",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                },
+                {
+                    "spritecmt icoheartreact": "6"
+                },
+                {
+                    "spritecmt icolaughreact": "3"
+                },
+                {
+                    "spritecmt icosadreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "efcc5590-71e0-4c01-8cd9-f0facc72291e",
+            "author": "phuong",
+            "text": "Xinh đẹp, giỏi và tài năng, đúng là hoa hậu thời nay đây.",
+            "date": "2024-10-02T10:53:40.5432297",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "3"
+                },
+                {
+                    "spritecmt icoheartreact": "2"
+                },
+                {
+                    "spritecmt icolaughreact": "3"
+                },
+                {
+                    "spritecmt icosurprisedreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "fa9f8d79-37f9-479f-84f3-94625d0de191",
+            "author": "Truong nguyen truong",
+            "text": "Trẻ trung năng động như vậy thì sắp tới rất mong chờ vào sự phát triển của công ty",
+            "date": "2024-10-02T11:10:31.0533697",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "2"
+                },
+                {
+                    "spritecmt icolaughreact": "2"
+                },
+                {
+                    "spritecmt icosurprisedreact": "1"
+                },
+                {
+                    "spritecmt icoanggyreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "d2f8eff3-890c-4062-8b31-aab04bb9a6d7",
+            "author": "than****@gmail.com",
+            "text": "Đây có phải nhà mạng FPT không mọi người ơi?",
+            "date": "2024-10-03T06:45:56.2450476",
+            "votes": [
+                {
+                    "spritecmt icolaughreact": "2"
+                },
+                {
+                    "spritecmt icosadreact": "2"
+                }
+            ]
+        },
+        {
+            "commentId": "b14e73b4-bac1-402a-8aa5-4064eff25a06",
+            "author": "hoàng long",
+            "text": "Long Châu lại như thêm cánh mới, chúc mừng doanh nghiệp",
+            "date": "2024-10-02T11:07:55.0638442",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                },
+                {
+                    "spritecmt icoheartreact": "2"
+                },
+                {
+                    "spritecmt icolaughreact": "1"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/02/tuoitre-nu-1-20241001202428163.m4a?",
+    "audio_path": ""
 }

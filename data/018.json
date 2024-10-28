@@ -1,9 +1,43 @@
 {
     "postId": "018",
-    "title": "Mạng 5G Viettel thuộc top 5% nhà mạng hiện đại nhất trên thế giới",
-    "link": "https://tuoitre.vn/mang-5g-viettel-thuoc-top-5-nha-mang-hien-dai-nhat-tren-the-gioi-202410151344187.htm",
-    "category": "Công nghệ",
-    "date": "15/10/2024",
-    "author": "THANH HÀ",
-    "content": "Sáng 15-10, Viettel chính thức khai trương mạng 5G đầu tiên tại Việt Nam, với vùng phủ sóng tới tất cả 63 tỉnh thành."
+    "title": "Thế giới",
+    "link": "https://tuoitre.vn/triet-pha-bang-nhom-lua-tinh-46-trieu-usd-bang-video-deepfake-20241015233645014.htm",
+    "category": "Thế giới",
+    "date": "16/10/2024",
+    "author": "CÔNG KHẢI",
+    "content": "Iran sẵn sàng đáp trả các hành động gây hấn của Israel, trong khi Tel Aviv tuyên bố sẽ lại đánh nếu Tehran có vòng leo thang mới. Các cuộc 'ăn miếng trả miếng' giữa Israel và Iran làm dấy lên lo ngại về một cuộc xung đột lớn hơn ở khu vực.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/15/nd241015-minh-hoa-cong-nghe-deepfake-1729009698517192424595.jpg",
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/1/3/deepfake-17042884582381151931582.jpeg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "7",
+        "icoheartauthor": "7"
+    },
+    "comments": [
+        {
+            "commentId": "7eba833a-a440-4548-934f-8e75c16f2fc1",
+            "author": "nguy****@gmail.com",
+            "text": "Có thế chứ, dù tinh vi đến mấy cũng bị đấu tranh triệt phá! Các nước đang tăng cường phối kết hợp, tổ chức thực hiện truy bắt các băng nhóm ổ nhóm tội phạm có tổ chức hệ thống lừa đảo chiếm đoạt tiền và...+",
+            "date": "2024-10-16T05:28:10.6290818",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                },
+                {
+                    "spritecmt icoheartreact": "2"
+                }
+            ]
+        },
+        {
+            "commentId": "1a2ae7eb-6e20-4ff3-9c59-8176b922012b",
+            "author": "linh****@gmail.com",
+            "text": "Bây giờ có nhiều thủ đoạn lừa đảo tinh vi thật, nhưng dù tinh vi đến mấy thì cũng bị các lực lượng cảnh sát bắt thôi",
+            "date": "2024-10-16T16:12:25.0410794",
+            "votes": []
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/16/tuoitre-nu-1-20241015233645014.m4a?",
+    "audio_path": "audio/018.mp3"
 }

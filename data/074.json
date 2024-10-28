@@ -1,7 +1,74 @@
 {
     "postId": "074",
-    "title": "Kẻ lừa đảo chỉ cần 3 giây để sao chép giọng nói bằng AI",
-    "link": "https://tuoitre.vn/ke-lua-dao-chi-can-3-giay-de-sao-chep-giong-noi-bang-ai-20240926093137138.htm",
-    "category": "Công nghệ",
-    "content": "Chỉ cần 3 giây âm thanh từ một video đăng trên mạng xã hội, kẻ gian đã có thể dùng AI sao..."
+    "title": "Kinh doanh",
+    "link": "https://tuoitre.vn/nguoi-dung-viet-dat-coc-mua-hon-50-000-iphone-16-dem-nay-giao-hang-20240926171859123.htm",
+    "category": "Kinh doanh",
+    "date": "26/09/2024",
+    "author": "ĐỨC THIỆN",
+    "content": "Taxi điện có giá mở cửa chỉ 6.000 đồng đã xuất hiện, chỉ bằng 50% giá mở cửa nhiều hãng taxi thông thường. Cuộc chiến giá giữa taxi truyền thống và xe điện ngày càng gay cấn.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/9/26/base64-1727345771006682282220.jpeg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "13",
+        "icoheartauthor": "9"
+    },
+    "comments": [
+        {
+            "commentId": "cdc32dee-d825-4b9f-a830-2825c6dc447d",
+            "author": "Green Field",
+            "text": "Người Việt mình giàu ghê!",
+            "date": "2024-09-26T17:58:30.8409649",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "4"
+                },
+                {
+                    "spritecmt icoheartreact": "2"
+                },
+                {
+                    "spritecmt icolaughreact": "4"
+                },
+                {
+                    "spritecmt icoanggyreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "01edbbba-69c8-4128-9953-7ab8cbca5f36",
+            "author": "tron****@gmail.com",
+            "text": "Tôi đang dùng iphone 7 và thấy vẫn ổn, ko có nhu cầu đổi điện thoại, rác môi trường",
+            "date": "2024-09-26T20:48:09.4285839",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "2"
+                }
+            ]
+        },
+        {
+            "commentId": "c07c700e-dcea-4e47-9d85-5514a81ca829",
+            "author": "Võ Đức Lành",
+            "text": "50.000 cái Iphone nhân cho trung bình 35 triệu/cái bằng 1.750 tỷ VND = 71, 65 triệu USD, người tiêu dùng VN quá sành điệu, khủng quá.",
+            "date": "2024-09-26T21:44:59.7766409",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "1bdcf224-d5d3-4d83-87e4-3cbbf79c27bb",
+            "author": "Nguyễn Trọng Tấn",
+            "text": "Mình dùng Samsung A12 mà không có cấu hình sinh trắc ở ngân hàng! Thấy bực! Muốn đổi sang iphone 16 mà 47 tr thì cũng suy nghĩ!",
+            "date": "2024-09-26T23:14:19.6515979",
+            "votes": [
+                {
+                    "spritecmt icolaughreact": "1"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/09/26/tuoitre-nu-1-20240926171859123.m4a?",
+    "audio_path": "audio/074.mp3"
 }

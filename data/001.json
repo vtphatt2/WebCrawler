@@ -1,23 +1,20 @@
 {
     "postId": "001",
-    "title": "Nhạc Phú Quang đâu chỉ màu buồn",
-    "link": "https://tuoitre.vn/nhac-phu-quang-dau-chi-mau-buon-20241026064630969.htm",
-    "category": "Giải trí",
-    "date": "26/10/2024",
-    "author": "THIÊN ĐIỂU",
-    "content": "Nghe Hồ Quỳnh Hương, Khánh Linh, Hoàng Hải, Olpus hát Phú Quang trong đêm nhạc ‘Tình yêu ở lại’ tại khu vườn của Nhà hát lớn Hà Nội.",
+    "title": "Giáo dục",
+    "link": "https://tuoitre.vn/fpt-hop-tac-dai-hoc-quoc-gia-singapore-phat-trien-ai-20241027162954416.htm",
+    "category": "Giáo dục",
+    "date": "27/10/2024",
+    "author": "ĐỨC THIỆN",
+    "content": "Nhóm sinh viên Trường đại học Bách khoa (Đại học Quốc gia TP.HCM) đã chế tạo robot y tá có khả năng nhận diện khuôn mặt, nhằm hỗ trợ tình trạng quá tải ở các bệnh viện.",
     "images": [
-        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/26/base64-17298997667731748189732.jpeg",
-        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/26/base64-1729899766816765267379.jpeg",
-        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/26/base64-1729899766859620236085.jpeg",
-        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/26/base64-17298997669001224270323.jpeg",
-        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/26/base64-1729899766939140645658.jpeg"
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/27/fpt-nus-ai-singapore-tri-tue-nhan-tao-17300208805941962905094.jpg"
     ],
-    "audio_link": "https://tts.mediacdn.vn/2024/10/26/tuoitre-nu-1-20241026064630969.m4a?",
     "votes": {
         "icostar": "0",
-        "icolikeauthor": "1",
-        "icoheartauthor": "3"
+        "icolikeauthor": "4",
+        "icoheartauthor": "4"
     },
-    "comments": []
+    "comments": [],
+    "audio_link": "",
+    "audio_path": ""
 }

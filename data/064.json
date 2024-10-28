@@ -1,9 +1,35 @@
 {
     "postId": "064",
-    "title": "Lisa Su - người phụ nữ giúp hồi sinh AMD",
-    "link": "https://tuoitre.vn/lisa-su-nguoi-phu-nu-giup-hoi-sinh-amd-20240928084058459.htm",
-    "category": "Nhịp sống trẻ",
-    "date": "28/09/2024",
-    "author": "D.KIM THOA",
-    "content": "Bà Lisa Su, CEO của nhà sản xuất chip hàng đầu thế giới AMD, là một trong những cái tên nổi bật của danh sách 100 người có ảnh hưởng nhất lĩnh vực AI năm 2024 ."
+    "title": "Bạn đọc làm báo",
+    "link": "https://tuoitre.vn/dua-viet-nam-thanh-trung-tam-cong-nghiep-ban-dan-20240930080948103.htm",
+    "category": "Bạn đọc làm báo",
+    "date": "30/09/2024",
+    "author": "BẢO NGỌC",
+    "content": "Trong thời đại hiện nay, tối ưu hóa không gian sống và làm việc nhằm tạo ra môi trường lành mạnh và thân thiện với thiên nhiên đang là xu hướng thiết yếu.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/9/30/123-1727663633834855220283.jpg",
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/9/30/base64-172765928769271192431.jpeg",
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/9/30/base64-17276590283621095592223.jpeg",
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/9/30/sinh-vien-hoc-tap-tai-phong-1727658407542538222439.jpg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "5",
+        "icoheartauthor": "5"
+    },
+    "comments": [
+        {
+            "commentId": "cf685d41-55a0-4ab7-99c7-8da38d389dca",
+            "author": "Ba Hung",
+            "text": "Ngành vật liệu cũng rất quan trọng.",
+            "date": "2024-09-30T12:39:14.0044696",
+            "votes": [
+                {
+                    "spritecmt icoheartreact": "2"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/09/30/tuoitre-nu-1-20240930080948103.m4a?",
+    "audio_path": "audio/064.mp3"
 }

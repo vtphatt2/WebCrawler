@@ -1,9 +1,85 @@
 {
     "postId": "030",
-    "title": "TikTok chuyển sang kiểm duyệt bằng AI, sa thải hàng trăm nhân viên",
-    "link": "https://tuoitre.vn/tiktok-chuyen-sang-kiem-duyet-bang-ai-sa-thai-hang-tram-nhan-vien-20241011153808923.htm",
-    "category": "Công nghệ",
+    "title": "Tuổi Trẻ Cuối Tuần",
+    "link": "https://tuoitre.vn/cong-bo-5-thuong-hieu-co-gia-tri-cao-nhat-viet-nam-20241011175044811.htm",
+    "category": "Tuổi Trẻ Cuối Tuần",
     "date": "11/10/2024",
-    "author": "KHÁNH QUỲNH",
-    "content": "ByteDance, công ty mẹ của TikTok, đang sa thải loạt nhân viên trong quá trình hướng tới tự động hóa khâu kiểm duyệt nội dung."
+    "author": "ĐỨC THIỆN",
+    "content": "TTCT - Các thương vụ chuyển nhượng lớn rầm rộ diễn ra, cầu thủ ngôi sao kiếm tiền tỉ, dù bóng đá Việt đã lâu không có thành tích nào thật sự ấn tượng.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/11/fpt-gia-tri-thuong-hieu-1-ti-do-dthien-1728643718524924705333.png"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "6",
+        "icoheartauthor": "7"
+    },
+    "comments": [
+        {
+            "commentId": "3538641e-4e03-4187-84ad-f60528586632",
+            "author": "Tiêu sái",
+            "text": "Tôi đã đi nghỉ dưỡng ở Vinpearl, sử mạng Viettel, cài NH Viettin, uống sữa Vinamilk, đi xe điện Vinfast và cho con học Vinshool. Toàn những thương hiệu xứng đáng",
+            "date": "2024-10-11T19:13:46.7966594",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "3"
+                },
+                {
+                    "spritecmt icoheartreact": "2"
+                },
+                {
+                    "spritecmt icolaughreact": "5"
+                }
+            ]
+        },
+        {
+            "commentId": "dd8b8bb8-b4db-4d01-a233-aae225bd44ee",
+            "author": "Nha sĩ Tuấn Cao",
+            "text": "Vin có đến mấy doanh nghiệp trong danh sách. Công nhận họ làm gì cũng tốt",
+            "date": "2024-10-11T19:00:49.8730445",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "2"
+                },
+                {
+                    "spritecmt icolaughreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "26928453-b70e-4eb9-8533-d5c220ca503c",
+            "author": "Huyền Trang",
+            "text": "FPT mảng công nghệ đang hot, phát triển nhanh. Mà kể ra trong list này Vingroup cũng toàn công ty mạnh nhỉ, Vinpearl đứng đầu còn Vinfast, Vinschool cũng top 10",
+            "date": "2024-10-11T19:07:40.8497503",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "2"
+                }
+            ]
+        },
+        {
+            "commentId": "61b3cb2f-5c14-4f1b-ae94-48df366523b8",
+            "author": "Khánh Phạm",
+            "text": "Trong top 10 đã có tới 3 thương hiệu của Vin rồi! Uy tín 👍",
+            "date": "2024-10-11T19:01:18.9462914",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "52bbeca8-f99e-4afc-87c0-cbfaa1baf46f",
+            "author": "Ngọc giàu",
+            "text": "“Theo bảng xếp hạng của Brand Finance, 5 thương hiệu có giá trị cao nhất Việt Nam lần lượt là: Vinpearl, Viettel, Vietcombank, FPT và Vinamilk. Trong tốp 10 còn có thêm: Bảo Việt, Vietinbank, MB bank, Vinfast và Vinschool.”\nTrong top 10 có tận 3 thương...+",
+            "date": "2024-10-11T19:07:11.1276352",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/11/tuoitre-nu-1-20241011175044811.m4a?",
+    "audio_path": "audio/030.mp3"
 }

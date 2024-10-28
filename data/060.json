@@ -1,9 +1,20 @@
 {
     "postId": "060",
-    "title": "Laptop AI mỏng nhẹ đầy tinh tế của Acer",
-    "link": "https://tuoitre.vn/laptop-ai-mong-nhe-day-tinh-te-cua-acer-20240930134130267.htm",
-    "category": "Công nghệ",
+    "title": "Giáo dục",
+    "link": "https://tuoitre.vn/cong-nghe-bi-mat-giup-nu-sinh-bai-nao-tot-nghiep-trung-hoc-20240930170146405.htm",
+    "category": "Giáo dục",
     "date": "30/09/2024",
-    "author": "T.K",
-    "content": "Sự kết hợp giữa hiệu năng, thiết kế tinh tế và màn hình OLED mang đến sự lựa chọn hợp lý cho học sinh, sinh viên và nhân viên văn phòng."
+    "author": "TTXVN",
+    "content": "Nhóm sinh viên Trường đại học Bách khoa (Đại học Quốc gia TP.HCM) đã chế tạo robot y tá có khả năng nhận diện khuôn mặt, nhằm hỗ trợ tình trạng quá tải ở các bệnh viện.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/9/30/nu-sinh-bi-bai-nao-1727690497863418548362.png"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "0",
+        "icoheartauthor": "0"
+    },
+    "comments": [],
+    "audio_link": "https://tts.mediacdn.vn/2024/09/30/tuoitre-nu-1-20240930170146405.m4a?",
+    "audio_path": "audio/060.mp3"
 }

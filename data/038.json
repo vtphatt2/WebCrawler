@@ -1,9 +1,43 @@
 {
     "postId": "038",
-    "title": "Nobel 2024: Liệu AI có thể giành giải thưởng?",
-    "link": "https://tuoitre.vn/nobel-2024-lieu-ai-co-the-gianh-giai-thuong-20241008181713554.htm",
-    "category": "Giả - Thật",
+    "title": "Công nghệ",
+    "link": "https://tuoitre.vn/tai-san-so-tri-tue-nhan-tao-al-lan-dau-duoc-dua-vao-luat-20241008194231237.htm",
+    "category": "Công nghệ",
     "date": "08/10/2024",
-    "author": "TTXVN",
-    "content": "Trí tuệ nhân tạo (AI) đang tạo ra những biến đổi mạnh mẽ trong nhiều lĩnh vực, từ ngân hàng và tài chính đến phim ảnh và báo chí."
+    "author": "THÀNH CHUNG",
+    "content": "Những câu chuyện về một vài người nào đó trở thành tỉ phú chỉ sau một thời gian ngắn chơi tiền số đã khiến nhiều người Việt lao vào cuộc chơi với hy vọng đổi đời nhưng rồi không chỉ trắng tay mà còn ôm nợ.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/8/nguyen-manh-hung-1728390756462862697792.jpg",
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/8/tran-thanh-man-17283908533781609174849.jpg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "3",
+        "icoheartauthor": "0"
+    },
+    "comments": [
+        {
+            "commentId": "c96c4184-5a9e-43f8-b114-d29a6e2d0e31",
+            "author": "Dũng",
+            "text": "Gần đây có một số người theo dõi trí tuệ nhân tạo Al được cho rất nhiều quà, một số được cho đi du lịch miễn phí trọn gói, thực ra có dụng ý gì?",
+            "date": "2024-10-09T08:45:18.5789689",
+            "votes": [
+                {
+                    "spritecmt icoheartreact": "2"
+                },
+                {
+                    "spritecmt icoanggyreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "e13a0d7b-413c-4dce-be03-ba9f89d0c9be",
+            "author": "Minh Quang",
+            "text": "Tại Điều 105 Bộ luật Dân sự 2015 quy định về tài sản như sau:\n- Tài sản là vật, tiền, giấy tờ có giá và quyền tài sản.\n- Tài sản bao gồm bất động sản và động sản. Bất động sản và động sản có thể...\n+",
+            "date": "2024-10-10T05:47:59.1355297",
+            "votes": []
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/08/tuoitre-nu-1-20241008194231237.m4a?",
+    "audio_path": "audio/038.mp3"
 }

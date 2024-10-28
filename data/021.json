@@ -1,9 +1,58 @@
 {
     "postId": "021",
-    "title": "Săn iPhone xịn 100.000 - 400.000 đồng, kết quả ra sao?",
-    "link": "https://tuoitre.vn/san-iphone-xin-100-000-400-000-dong-ket-qua-ra-sao-20241017093618681.htm",
+    "title": "Bạn đọc làm báo",
+    "link": "https://tuoitre.vn/mang-5g-viettel-thuoc-top-5-nha-mang-hien-dai-nhat-tren-the-gioi-202410151344187.htm",
     "category": "Bạn đọc làm báo",
-    "date": "17/10/2024",
-    "author": "BÉ HIẾU",
-    "content": "Rao bán iPhone với giá rẻ như cho, kèm cam kết máy chính hãng 100% nguyên seal nhưng sau khi..."
+    "date": "15/10/2024",
+    "author": "THANH HÀ",
+    "content": "Thị trường văn phòng xanh tại Việt Nam trong 5 năm trở lại đây đang được nhiều doanh nghiệp quan tâm, tìm kiếm. Tại Hà Nội và TP.HCM mới chỉ có hơn 20 tòa nhà văn phòng được cấp chứng chỉ Xanh quốc tế.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/15/6c6c9112-e251-4eda-8338-7148bdc0264d-17289739005681505829950.jpg",
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/10/15/60cdfbf5-bda7-4b6d-9929-5d404eb9f13a-1728973900561271086354.jpg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "10",
+        "icoheartauthor": "6"
+    },
+    "comments": [
+        {
+            "commentId": "b16e50bb-c91c-47fb-8392-034ae8dfc56a",
+            "author": "TinLD",
+            "text": "5G của Viettel có mạnh hay không thì không biết.\nNhưng 4G hiện tại của Viettel thì yếu đi rất nhiều. ",
+            "date": "2024-10-16T10:19:36.1449125",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "6"
+                }
+            ]
+        },
+        {
+            "commentId": "b2507bdd-785b-451f-9041-7f3c559af58f",
+            "author": "TrầnThanh Tùng",
+            "text": "4G và sóng điện thoại còn chưa phủ sóng hết. Tại tổ 7 ấp Thanh Bình, xã Lộc An, huyện Long Thành, tỉnh Đồng Nai sóng rất yếu",
+            "date": "2024-10-15T16:55:54.2098527",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "4"
+                }
+            ]
+        },
+        {
+            "commentId": "f3b515c7-c0ff-4813-a60f-4f6597ff8a06",
+            "author": "hùng",
+            "text": "Quan trọng người dân có được hưởng lợi không?",
+            "date": "2024-10-15T16:36:58.172509",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                },
+                {
+                    "spritecmt icosadreact": "1"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/10/15/tuoitre-nu-1-202410151344187.m4a?",
+    "audio_path": "audio/021.mp3"
 }

@@ -1,9 +1,35 @@
 {
     "postId": "061",
-    "title": "Sinh viên Việt Nam đoạt giải nhất cuộc thi Tech4Good khu vực châu Á - Thái Bình Dương",
-    "link": "https://tuoitre.vn/sinh-vien-viet-nam-doat-giai-nhat-cuoc-thi-tech4good-khu-vuc-chau-a-thai-binh-duong-20240930102356163.htm",
+    "title": "Kinh doanh",
+    "link": "https://tuoitre.vn/phan-mem-adobe-photoshop-co-ngon-ngu-tieng-viet-20240930145552759.htm",
     "category": "Kinh doanh",
     "date": "30/09/2024",
     "author": "ĐỨC THIỆN",
-    "content": "Đội Việt Nam với dự án SkyNet - hỗ trợ tìm kiếm người gặp nạn trong lũ lụt - đã xuất sắc giành giải nhất cuộc thi Tech4Good khu vực châu Á - Thái Bình Dương, tiến vào vòng chung kết toàn cầu trong năm 2025."
+    "content": "Trong những ngày cuối tháng 10, ngành du lịch Việt Nam đón nhận tín hiệu tích cực từ lượng lớn khách quốc tế đến bằng đường biển.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/9/30/adobe-photoshop-tieng-viet-ngon-ngu-1727682496255243850654.jpeg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "6",
+        "icoheartauthor": "2"
+    },
+    "comments": [
+        {
+            "commentId": "96a09d11-51c5-45f3-9f5b-7eac92db700b",
+            "author": "Minh cảnh",
+            "text": "Giá bộ Adobe cao quá!",
+            "date": "2024-09-30T15:50:58.9789929",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "2"
+                },
+                {
+                    "spritecmt icoheartreact": "4"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/09/30/tuoitre-nu-1-20240930145552759.m4a?",
+    "audio_path": "audio/061.mp3"
 }

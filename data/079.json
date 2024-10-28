@@ -1,7 +1,88 @@
 {
     "postId": "079",
-    "title": "Thế Giới Di Động đóng 70 cửa hàng trong 1 tháng, cửa hàng thuốc An Khang chiếm đa số",
-    "link": "https://tuoitre.vn/the-gioi-di-dong-dong-70-cua-hang-trong-1-thang-cua-hang-thuoc-an-khang-chiem-da-so-20240925174920804.htm",
-    "category": "Kinh doanh",
-    "content": "Trong tháng 8-2024, Thế Giới Di Động đã đóng thêm 61 cửa hàng thuốc An Khang, 5 cửa hàng Thế Giới Di Động, 3 cửa hàng Điện Máy Xanh và 1 cửa hàng Ava Kids."
+    "title": "Giải Trí",
+    "link": "https://tuoitre.vn/nguoi-viet-quan-tam-iphone-16-khong-bang-iphone-15-20240925195924223.htm",
+    "category": "Giải Trí",
+    "date": "25/09/2024",
+    "author": "ĐỨC THIỆN",
+    "content": "Sau thời gian ồn ào đấu qua tố lại với Châu Đăng Khoa, Sofia đã có cú trở mình, lột xác hoàn toàn khiến nhiều người ngỡ ngàng.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/9/25/iphone-16-iphone-apple-dthien-17272684963991001611975.jpg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "10",
+        "icoheartauthor": "9"
+    },
+    "comments": [
+        {
+            "commentId": "27d9f0fa-0802-4ee0-9339-ab6ee378ab0a",
+            "author": "Mr Hiển",
+            "text": "Năm nào cũng ra mà kiểu dáng cũng na ná nhau nên dần thấy bình thường, không háo hức như xưa.",
+            "date": "2024-09-25T21:17:23",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "8"
+                }
+            ]
+        },
+        {
+            "commentId": "27d9f0fa-0802-4ee0-9339-ab6ee378ab0a",
+            "author": "Mr Hiển",
+            "text": "Năm nào cũng ra mà kiểu dáng cũng na ná nhau nên dần thấy bình thường, không háo hức như xưa.",
+            "date": "2024-09-25T21:17:23",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "8"
+                }
+            ]
+        },
+        {
+            "commentId": "d5e0780e-9bee-4f79-bed4-bc476790a1e6",
+            "author": "Anh Kiệt",
+            "text": "Kinh tế khó khăn kinh khủng nhất từ 1986 tới nay. Lượng người thất nghiệp quá đông. Con số cụ thể phải có cuộc điều tra xã hội học minh bạch, độc lập thì mới chính xác. Cơm ăn, áo mặc, việc làm, sức khỏe đó...+",
+            "date": "2024-09-26T09:48:02",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                },
+                {
+                    "spritecmt icoheartreact": "1"
+                },
+                {
+                    "spritecmt icolaughreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "b64dc151-72ea-4f2b-ba51-87424f4655b0",
+            "author": "mimi",
+            "text": "Hồi trẻ mình cũng đu iphone, nhưng giờ trung thành nhỏ em Ip11.",
+            "date": "2024-09-26T06:50:23",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "1"
+                },
+                {
+                    "spritecmt icolaughreact": "1"
+                }
+            ]
+        },
+        {
+            "commentId": "b6cd7513-51de-44c1-a4fd-58caf6c488cb",
+            "author": "Lam",
+            "text": "Do hết tiền thôi",
+            "date": "2024-09-26T08:33:34",
+            "votes": []
+        },
+        {
+            "commentId": "9aed6013-f6d8-4dd8-bc6d-ffb364ef5bb4",
+            "author": "huy",
+            "text": "Riết rồi cũng nhàm. Tôi vẫn đu con IP 14",
+            "date": "2024-09-26T08:59:58",
+            "votes": []
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/09/25/tuoitre-nu-1-20240925195924223.m4a?",
+    "audio_path": "audio/079.mp3"
 }

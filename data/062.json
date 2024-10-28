@@ -1,9 +1,35 @@
 {
     "postId": "062",
-    "title": "Đưa Việt Nam thành trung tâm công nghiệp bán dẫn",
-    "link": "https://tuoitre.vn/dua-viet-nam-thanh-trung-tam-cong-nghiep-ban-dan-20240930080948103.htm",
-    "category": "Thời sự",
+    "title": "Phần mềm Adobe Photoshop có ngôn ngữ tiếng Việt",
+    "link": "https://tuoitre.vn/phan-mem-adobe-photoshop-co-ngon-ngu-tieng-viet-20240930145552759.htm",
+    "category": "Kinh doanh",
     "date": "30/09/2024",
-    "author": "BẢO NGỌC",
-    "content": "Trong bối cảnh cuộc cách mạng công nghiệp 4.0 đang diễn ra mạnh mẽ, ngành công nghiệp bán dẫn nổi lên như một lĩnh vực then chốt, quyết định sự phát triển của nhiều ngành công nghệ khác."
+    "author": "ĐỨC THIỆN",
+    "content": "Ngày 30-9, Công ty Adobe công bố chính thức ra mắt tính năng hỗ trợ tiếng Việt dành cho phần mềm Photoshop trên máy tính, giúp người dùng Việt Nam thỏa sức sáng tạo mà không gặp trở ngại về ngôn ngữ.",
+    "images": [
+        "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/9/30/adobe-photoshop-tieng-viet-ngon-ngu-1727682496255243850654.jpeg"
+    ],
+    "votes": {
+        "icostar": "0",
+        "icolikeauthor": "6",
+        "icoheartauthor": "2"
+    },
+    "comments": [
+        {
+            "commentId": "96a09d11-51c5-45f3-9f5b-7eac92db700b",
+            "author": "Minh cảnh",
+            "text": "Giá bộ Adobe cao quá!",
+            "date": "2024-09-30T15:50:58.9789929",
+            "votes": [
+                {
+                    "spritecmt icolikereact": "2"
+                },
+                {
+                    "spritecmt icoheartreact": "4"
+                }
+            ]
+        }
+    ],
+    "audio_link": "https://tts.mediacdn.vn/2024/09/30/tuoitre-nu-1-20240930145552759.m4a?",
+    "audio_path": "audio/062.mp3"
 }
